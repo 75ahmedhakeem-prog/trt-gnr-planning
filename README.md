@@ -1,6 +1,6 @@
 # trt-gnr-planning
 
-Code and data for the manuscript **"Gold-nanorod mild hyperthermia as a radiosensitiser within skin exposure limits: coupled light transport, thermoradiobiology and machine-learning planning"** (A.M. Abdel Hakeem, S.A. Ahmed).
+Code and data for the manuscript **"Gold nanorods as heaters, not dose enhancers: planning mild thermoradiotherapy within skin exposure limits"** (A.M. Abdel Hakeem, S.A. Ahmed).
 
 The framework couples
 1. Gans optics of gold nanorods (`gans.py`, `goldconc.py`),
