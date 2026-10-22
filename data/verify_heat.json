@@ -1,0 +1,7 @@
+{
+ "max_rise_analytic": 0.6822963054848845,
+ "max_rise_numeric": 0.6818968103755776,
+ "max_abs_error": 0.0017986865114510975,
+ "rel_error_at_peak": 0.0005855155686692703,
+ "steady_change_last_600s": 0.0
+}
