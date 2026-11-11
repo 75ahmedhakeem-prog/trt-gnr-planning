@@ -24,8 +24,12 @@ bo = json.load(open("../data/bench_overgaard.json"))["fits"]; tt = np.linspace(0
 for k, col, mk, lb in (("tumour, heat before RT", RED, "o", "Tumour, heat → RT"), ("skin, RT before heat", BLUE, "s", "Skin, RT → heat")):
     q = bo[k]; b_ax.plot(q["t"], q["TER"], mk, color=col, ms=9, mfc="none", mew=2, label=lb + f" (μ = {q['mu']:.2f} h$^{{-1}}$)")
     b_ax.plot(tt, np.exp(np.log(q["TER_inf"]) + q["K"] * np.exp(-q["mu"] * tt)), "-", color=col, lw=2.0)
+fo = json.load(open("../data/bench_overgaard.json"))["folefac_tumour_41.5"]
+for k, mk in (("photons", "^"), ("protons", "D")):
+    b_ax.plot(fo["t"], [v[0] for v in fo["TER"][k]], mk, color=GREEN, ms=9, label=f"Tumour, RT → heat, 3 fx ({k})")
+b_ax.plot(tt[tt <= 6], np.exp(fo["K"] * np.exp(-fo["mu"] * tt[tt <= 6])), "--", color=GREEN, lw=2.0)
 b_ax.set_xlabel("Interval (h)"); b_ax.set_ylabel("TER (in vivo)"); b_ax.set_xlim(-0.8, 25); b_ax.set_ylim(0.6, 3.4)
-b_ax.legend(loc="upper right", fontsize=13); lab(b_ax, "(b)", x=0.04, y=0.95)
+b_ax.legend(loc="upper right", fontsize=12.5, handletextpad=0.3, labelspacing=0.3); lab(b_ax, "(b)", x=0.04, y=0.95)
 b_ax.xaxis.set_minor_locator(AutoMinorLocator(2))
 # (c) distribution of the dose shift
 v = df.dD50.values; p = np.percentile(v, [2.5, 50, 97.5])
