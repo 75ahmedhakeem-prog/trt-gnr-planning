@@ -23,7 +23,9 @@ Python ≥ 3.10, `numpy`, `scipy`, `pandas`, `scikit-learn`, `matplotlib`, `pill
 | Surrogates | `ml_trt.py` | `data/ml_trt_v2.json`, `data/ml_trt_holdout_v2.csv` |
 | Treatability maps | `trt_maps.py` | `data/trt_maps.json` |
 | Protocol design + δP1/MC verification | `design_trt.py` | `data/design_trt.json` |
-| Figures | `fig_*.py`, `make_ga_trt.py` | `figures/*.png` |
+| Global uncertainty analysis (4096 sets, ≈ 15 min on 2 cores) | `gsa.py` | `data/gsa.json`, `data/gsa_samples.csv.gz` |
+| In vivo interval tests (Overgaard 1980; Folefac et al. 2025) | `bench_overgaard.py` | `data/bench_overgaard.json` |
+| Figures | `fig_*.py`, `fig_gsa.py`, `make_ga_trt.py` | `figures/*.png` |
 
 `data/nist/` holds the NIST mass attenuation and energy-absorption coefficients (Hubbell & Seltzer, NISTIR 5632) for Au, water, Al and Cu.
 
