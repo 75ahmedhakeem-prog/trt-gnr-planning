@@ -24,6 +24,7 @@ Python ≥ 3.10, `numpy`, `scipy`, `pandas`, `scikit-learn`, `matplotlib`, `pill
 | Treatability maps | `trt_maps.py` | `data/trt_maps.json` |
 | Protocol design + δP1/MC verification | `design_trt.py` | `data/design_trt.json` |
 | Global uncertainty analysis (4096 sets, ≈ 15 min on 2 cores) | `gsa.py` | `data/gsa.json`, `data/gsa_samples.csv.gz` |
+| Robustness of the ANN designs to parameter uncertainty | `design_gsa.py`, `design_robust.py` | `data/design_gsa.json`, `data/design_robust.json` |
 | In vivo interval tests (Overgaard 1980; Folefac et al. 2025) | `bench_overgaard.py` | `data/bench_overgaard.json` |
 | Figures | `fig_*.py`, `fig_gsa.py`, `make_ga_trt.py` | `figures/*.png` |
 
