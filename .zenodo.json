@@ -1,0 +1,48 @@
+{
+  "title": "Code and data: coupled gold-nanorod heating and thermoradiobiology for mild thermoradiotherapy planning",
+  "upload_type": "software",
+  "description": "Python code (Gans optics of gold nanorods, delta-P1 and Monte Carlo light transport, Pennes bioheat, extended linear-quadratic thermoradiobiology, gold dose enhancement, ANN, gradient-boosted and smooth-function surrogates, exhaustive and robust design, uncertainty analysis, superficial-site sensitivity and heterogeneous nanorod distributions) and the 288,000-sample design dataset for the article 'Gold nanorods as heaters, not dose enhancers: planning mild thermoradiotherapy within skin exposure limits'.",
+  "creators": [
+    {
+      "name": "Othman, Manal A.",
+      "affiliation": "Medical Education Department, College of Medicine, Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia"
+    },
+    {
+      "name": "Alshihri, Abdulaziz A.",
+      "affiliation": "Department of Radiological Sciences, College of Applied Medical Sciences, King Khalid University, Abha, Saudi Arabia"
+    },
+    {
+      "name": "Althbiti, Ashrf",
+      "affiliation": "Department of Information Technology, College of Computers and Information Technology, Taif University, Taif, Saudi Arabia"
+    },
+    {
+      "name": "Alghamdi, Wael Y.",
+      "affiliation": "Department of Computer Science, College of Computers and Information Technology, Taif University, Taif, Saudi Arabia"
+    },
+    {
+      "name": "Alshammari, Sami Aziz",
+      "affiliation": "Department of Information Technology, Faculty of Computing and Information Technology, Northern Border University, Rafha, Saudi Arabia"
+    },
+    {
+      "name": "Alnafisah, Khalid Hamad",
+      "affiliation": "Department of Computer Sciences, Faculty of Computing and Information Technology, Northern Border University, Rafha, Saudi Arabia"
+    },
+    {
+      "name": "Alshammari, Nayef H.",
+      "affiliation": "Department of Computer Science, Faculty of Computers and Information Technology, University of Tabuk, Tabuk, Saudi Arabia"
+    },
+    {
+      "name": "Abdel Hakeem, A.M.",
+      "affiliation": "Physics Department, Faculty of Science, Sohag University, Egypt"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "thermoradiotherapy",
+    "mild hyperthermia",
+    "gold nanorods",
+    "linear-quadratic model",
+    "photothermal",
+    "machine learning"
+  ]
+}
