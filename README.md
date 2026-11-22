@@ -1,6 +1,6 @@
 # trt-gnr-planning
 
-Code and data for the manuscript **"Gold nanorods as heaters, not dose enhancers: planning mild thermoradiotherapy within skin exposure limits"** (A.M. Abdel Hakeem, S.A. Ahmed).
+Code and data for the manuscript **"Gold nanorods as heaters, not dose enhancers: planning mild thermoradiotherapy within skin exposure limits"** (M.A. Othman, A.A. Alshihri, A. Althbiti, W.Y. Alghamdi, S.A. Alshammari, K.H. Alnafisah, N.H. Alshammari, A.M. Abdel Hakeem).
 
 The framework couples
 1. Gans optics of gold nanorods (`gans.py`, `goldconc.py`),
