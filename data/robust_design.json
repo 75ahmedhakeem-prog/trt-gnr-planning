@@ -1,9 +1,9 @@
 {
  "NS": 128,
- "t_train_ann_s": 261.93171072006226,
- "t_ann_search_s": 8.796506643295288,
+ "t_train_ann_s": 265.2863302230835,
+ "t_ann_search_s": 12.673597574234009,
  "n_ann_pred": 2500608,
- "t_exact_search_s": 3074.523750305176,
+ "t_exact_search_s": 2816.6279361248016,
  "n_exact_sim": 5632,
  "808": {
   "ann": {

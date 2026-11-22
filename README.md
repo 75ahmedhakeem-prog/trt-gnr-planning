@@ -28,7 +28,7 @@ Python ≥ 3.10, `numpy`, `scipy`, `pandas`, `scikit-learn`, `matplotlib`, `pill
 | Global uncertainty analysis (4096 sets, ≈ 15 min on 2 cores) | `gsa.py` | `data/gsa.json`, `data/gsa_samples.csv.gz` |
 | Robustness of the ANN designs to parameter uncertainty | `design_gsa.py`, `design_robust.py` | `data/design_gsa.json`, `data/design_robust.json` |
 | In vivo interval tests (Overgaard 1980; Folefac et al. 2025) | `bench_overgaard.py` | `data/bench_overgaard.json` |
-| Smooth-function surrogate baselines (polynomial, splines, RBF, GP) on the same splits | `ml_baselines.py` (run with `Poly2,Poly3,Poly4,Poly5,RBF`, `Spline`, `GP`), `time_ann.py` | `data/ml_baselines_*.csv/json`, `data/time_ann.json` |
+| Smooth-function surrogate baselines (polynomial, splines, RBF, GP) on the same splits | `ml_baselines.py` (run with `Poly2,Poly3,Poly4,Poly5,RBF`, `Spline`, `GP`); timings on one idle core: `time_all.py` | `data/ml_baselines_*.csv/json`, `data/time_all.json` |
 | Exhaustive exact design search and robust design (ANN vs exact) | `design_exact.py`, `robust_design.py` | `data/design_exact.json`, `data/robust_design.json` |
 | Superficial-site sensitivity (α/β, β ratio, 8 × 4 Gy schedule) | `site_sens.py` | `data/site_sens.json` |
 | Heterogeneous GNR distributions at equal total gold | `het_gnr.py`, `fig_het.py` | `data/het_gnr.json`, `figures/trt_het.png` |
