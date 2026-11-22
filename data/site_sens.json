@@ -1,0 +1,362 @@
+[
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "SiHa (reference)",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.1339394318627978,
+  "gain_Gy": 6.161213865688698,
+  "TER_n": 1.0105031754015266,
+  "TGF": 1.1221532593524246
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "SiHa (reference)",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.1339394318627978,
+  "gain_Gy": 6.161213865688698,
+  "TER_n": 1.0456927101489608,
+  "TGF": 1.084390682709518
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "HeLa",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.2625744000448185,
+  "gain_Gy": 12.07842240206165,
+  "TER_n": 1.0105031754015266,
+  "TGF": 1.2494511949882103
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "HeLa",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.2625744000448185,
+  "gain_Gy": 12.07842240206165,
+  "TER_n": 1.0456927101489608,
+  "TGF": 1.2074048023773278
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "Head-and-neck SCC (a/b 10 Gy)",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.1163171209493412,
+  "gain_Gy": 5.350587563669696,
+  "TER_n": 1.0105031754015266,
+  "TGF": 1.104714114832711
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "Head-and-neck SCC (a/b 10 Gy)",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.1163171209493412,
+  "gain_Gy": 5.350587563669696,
+  "TER_n": 1.0456927101489608,
+  "TGF": 1.0675383983410573
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "Breast (a/b 3.5 Gy)",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.063855764984886,
+  "gain_Gy": 2.9373651893047605,
+  "TER_n": 1.0105031754015266,
+  "TGF": 1.0527980424823107
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "Breast (a/b 3.5 Gy)",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.063855764984886,
+  "gain_Gy": 2.9373651893047605,
+  "TER_n": 1.0456927101489608,
+  "TGF": 1.0173693998816706
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "Melanoma (a/b 2.5 Gy)",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.0423331574097248,
+  "gain_Gy": 1.9473252408473392,
+  "TER_n": 1.0105031754015266,
+  "TGF": 1.031499141005223
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "Melanoma (a/b 2.5 Gy)",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.0423331574097248,
+  "gain_Gy": 1.9473252408473392,
+  "TER_n": 1.0456927101489608,
+  "TGF": 0.9967872466675631
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "Breast (a/b 3.5 Gy), b41/b37 = 1",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.1022684085010708,
+  "gain_Gy": 4.704346791049256,
+  "TER_n": 1.0105031754015266,
+  "TGF": 1.0908114247766525
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "Breast (a/b 3.5 Gy), b41/b37 = 1",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.1022684085010708,
+  "gain_Gy": 4.704346791049256,
+  "TER_n": 1.0456927101489608,
+  "TGF": 1.0541035600640754
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "Melanoma (a/b 2.5 Gy), b41/b37 = 1",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.089281943929506,
+  "gain_Gy": 4.106969420757279,
+  "TER_n": 1.0105031754015266,
+  "TGF": 1.0779599415871963
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "Melanoma (a/b 2.5 Gy), b41/b37 = 1",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.089281943929506,
+  "gain_Gy": 4.106969420757279,
+  "TER_n": 1.0456927101489608,
+  "TGF": 1.0416845535571686
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "Head-and-neck SCC (a/b 10 Gy), b41/b37 = 1",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.1339229158942592,
+  "gain_Gy": 6.160454131135923,
+  "TER_n": 1.0105031754015266,
+  "TGF": 1.122136915050951
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "Head-and-neck SCC (a/b 10 Gy), b41/b37 = 1",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.1339229158942592,
+  "gain_Gy": 6.160454131135923,
+  "TER_n": 1.0456927101489608,
+  "TGF": 1.0843748884246596
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "SiHa, in vivo C3H decay (mu 0.35 1/h)",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.1429012577538413,
+  "gain_Gy": 6.573457856676701,
+  "TER_n": 1.0105031754015266,
+  "TGF": 1.1310219359772977
+ },
+ {
+  "schedule": "23 x 2 Gy, 5 HT",
+  "tumour": "SiHa, in vivo C3H decay (mu 0.35 1/h)",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 46.0,
+  "TER": 1.1429012577538413,
+  "gain_Gy": 6.573457856676701,
+  "TER_n": 1.0456927101489608,
+  "TGF": 1.0929609116152612
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "SiHa (reference)",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 35.21608040201005,
+  "TER": 1.2099507505965352,
+  "gain_Gy": 7.393642513469944,
+  "TER_n": 0.9998733884993269,
+  "TGF": 1.2101039636753466
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "SiHa (reference)",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 35.21608040201005,
+  "TER": 1.2099507505965352,
+  "gain_Gy": 7.393642513469944,
+  "TER_n": 1.0637993915471513,
+  "TGF": 1.137386202897547
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "HeLa",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 41.1441634519217,
+  "TER": 1.319378895195787,
+  "gain_Gy": 13.14057746702963,
+  "TER_n": 0.9998733884993269,
+  "TGF": 1.319545964890609
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "HeLa",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 41.1441634519217,
+  "TER": 1.319378895195787,
+  "gain_Gy": 13.14057746702963,
+  "TER_n": 1.0637993915471513,
+  "TGF": 1.2402515978853212
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "Head-and-neck SCC (a/b 10 Gy)",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 37.333333333333336,
+  "TER": 1.152839901520596,
+  "gain_Gy": 5.706022990102247,
+  "TER_n": 0.9998733884993269,
+  "TGF": 1.1529858827934711
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "Head-and-neck SCC (a/b 10 Gy)",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 37.333333333333336,
+  "TER": 1.152839901520596,
+  "gain_Gy": 5.706022990102247,
+  "TER_n": 1.0637993915471513,
+  "TGF": 1.0837004708603446
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "Breast (a/b 3.5 Gy)",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 43.63636363636364,
+  "TER": 1.0156292793103014,
+  "gain_Gy": 0.6820049153586086,
+  "TER_n": 0.9998733884993269,
+  "TGF": 1.015757885940561
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "Breast (a/b 3.5 Gy)",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 43.63636363636364,
+  "TER": 1.0156292793103014,
+  "gain_Gy": 0.6820049153586086,
+  "TER_n": 1.0637993915471513,
+  "TGF": 0.9547188007253953
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "Melanoma (a/b 2.5 Gy)",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 46.22222222222222,
+  "TER": 0.9701630376311506,
+  "gain_Gy": -1.3791307050490371,
+  "TER_n": 0.9998733884993269,
+  "TGF": 0.9702858869833835
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "Melanoma (a/b 2.5 Gy)",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 46.22222222222222,
+  "TER": 0.9701630376311506,
+  "gain_Gy": -1.3791307050490371,
+  "TER_n": 1.0637993915471513,
+  "TGF": 0.9119793123966546
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "Breast (a/b 3.5 Gy), b41/b37 = 1",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 43.63636363636364,
+  "TER": 1.145207930104898,
+  "gain_Gy": 6.336346040941008,
+  "TER_n": 0.9998733884993269,
+  "TGF": 1.1453529449600597
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "Breast (a/b 3.5 Gy), b41/b37 = 1",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 43.63636363636364,
+  "TER": 1.145207930104898,
+  "gain_Gy": 6.336346040941008,
+  "TER_n": 1.0637993915471513,
+  "TGF": 1.0765262127470756
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "Melanoma (a/b 2.5 Gy), b41/b37 = 1",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 46.22222222222222,
+  "TER": 1.1196768654710698,
+  "gain_Gy": 5.531730670662783,
+  "TER_n": 0.9998733884993269,
+  "TGF": 1.1198186473904976
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "Melanoma (a/b 2.5 Gy), b41/b37 = 1",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 46.22222222222222,
+  "TER": 1.1196768654710698,
+  "gain_Gy": 5.531730670662783,
+  "TER_n": 1.0637993915471513,
+  "TGF": 1.0525263262678242
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "Head-and-neck SCC (a/b 10 Gy), b41/b37 = 1",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 37.333333333333336,
+  "TER": 1.222257035874844,
+  "gain_Gy": 8.297596005994173,
+  "TER_n": 0.9998733884993269,
+  "TGF": 1.2224118072682026
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "Head-and-neck SCC (a/b 10 Gy), b41/b37 = 1",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 37.333333333333336,
+  "TER": 1.222257035874844,
+  "gain_Gy": 8.297596005994173,
+  "TER_n": 1.0637993915471513,
+  "TGF": 1.1489544415862445
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "SiHa, in vivo C3H decay (mu 0.35 1/h)",
+  "normal": "late (a/b 3 Gy)",
+  "EQD2_RT": 35.21608040201005,
+  "TER": 1.2274950656411723,
+  "gain_Gy": 8.011484522680076,
+  "TER_n": 0.9998733884993269,
+  "TGF": 1.227650500313319
+ },
+ {
+  "schedule": "8 x 4 Gy, 4 HT",
+  "tumour": "SiHa, in vivo C3H decay (mu 0.35 1/h)",
+  "normal": "acute skin (a/b 10 Gy)",
+  "EQD2_RT": 35.21608040201005,
+  "TER": 1.2274950656411723,
+  "gain_Gy": 8.011484522680076,
+  "TER_n": 1.0637993915471513,
+  "TGF": 1.1538783302516726
+ }
+]
